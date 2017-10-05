@@ -37,5 +37,3 @@ print("training completed with accuracy=",accuracy.eval(feed_dict={x: mnist.test
 
 
 
-
-
